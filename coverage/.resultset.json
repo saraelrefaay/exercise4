@@ -9,11 +9,11 @@
       "/Users/Sara/rails_projects/temp/app/helpers/application_helper.rb": [
         1,
         1,
-        14,
-        14,
-        5,
+        0,
+        0,
+        0,
         null,
-        9,
+        0,
         null,
         null,
         null,
@@ -41,8 +41,20 @@
         1,
         null,
         null
+      ],
+      "/Users/Sara/rails_projects/temp/app/models/user.rb": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1437943656
+    "timestamp": 1438097841
   }
 }
